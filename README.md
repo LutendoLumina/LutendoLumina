@@ -20,6 +20,7 @@ I’m currently focused on strengthening my backend development skills and explo
 **Languages**
 - Python
 - Java
+- PHP
 - SQL
 
 **Backend & Tools**
