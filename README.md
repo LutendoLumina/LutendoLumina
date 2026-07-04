@@ -1,12 +1,13 @@
 # Hi, I'm Lutendo 👋
 
-Diploma in Computer Science Graduate and Advanced Diploma (NQF 7) Computer Science student at Tshwane University of Technology, building full-stack, cloud, and AI projects — and actively looking for a Junior software engineer role in South African tech.
+Diploma in Computer Science Graduate and Advanced Diploma (NQF 7) Computer Science student at Tshwane University of Technology, building full-stack, cloud, and AI projects.
+I'm actively looking for a Junior software engineer role in South African tech.
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a full-stack developer with hands-on experience across the MERN stack, cloud (AWS), and applied AI — and a growing focus on software quality and testing. My background includes an AWS internship and an AI-focused internship, alongside three completed internships overall. I like taking projects from a rough idea to a deployed, working product, and I enjoy the testing side just as much: writing test cases, validating data, and thinking through edge cases before they become bugs.
+I'm a full-stack developer with hands-on experience across the MERN stack, cloud (AWS), and applied AI and a growing focus on software quality and testing. My background includes an AWS internship and an AI-focused internship, alongside three completed internships overall. I like taking projects from a rough idea to a deployed, working product, and I enjoy the testing side just as much: writing test cases, validating data, and thinking through edge cases before they become bugs.
 
 - 🎓 Final-year Advanced Diploma in Computer Science, Tshwane University of Technology
 - ☁️ AWS AI Practitioner certified
