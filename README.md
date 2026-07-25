@@ -36,7 +36,7 @@ I'm a full-stack developer with hands-on experience across the MERN stack, cloud
 `AWS` `Docker` `Git & GitHub` `CI/CD`
 
 **AI**
-`RAG pipelines (FastAPI + ChromaDB + Ollama)` `AWS AI Practitioner`
+`RAG pipelines (FastAPI + ChromaDB + Ollama)` `AWS AI Practitioner` `n8n`
 
 **Testing & QA**
 `JUnit / JUnit Jupiter` `Postman (API testing)` `SQL data validation` `Unit & Integration Testing` `Black-box & White-box Testing` `Software Testing Lifecycle (STLC)` `Defect Analysis`
